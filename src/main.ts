@@ -356,4 +356,6 @@ type Person = {
       console.table(fullnamePeople);
   }
   console.groupEnd();
+
+  console.log('labas');
   

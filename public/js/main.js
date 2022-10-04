@@ -191,4 +191,5 @@ console.groupCollapsed('11. Suformuokite žmonių masyvą, kuriame "name" ir "su
     console.table(fullnamePeople);
 }
 console.groupEnd();
+console.log('labas');
 //# sourceMappingURL=main.js.map
